@@ -126,8 +126,11 @@
 
 ---
 
+---
+
 ## 📦 فایل‌ها
 
 1. [mhrv-rs-windows-amd64](https://github.com/FantasticScuti/new-downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+2. [v1.9.25](https://github.com/FantasticScuti/new-downloader/tree/main/downloads/v1.9.25)
 
 ---
